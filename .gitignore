@@ -2,6 +2,9 @@
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 
+### Crypto ###
+/src/main/resources/**/*secret*
+
 ### STS ###
 .apt_generated
 .classpath
